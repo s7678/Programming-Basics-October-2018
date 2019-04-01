@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\04MetricConverter\bin\Debug\04MetricConverter.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\04MetricConverter\bin\Debug\04MetricConverter.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\04MetricConverter\bin\Debug\04MetricConverter.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\04MetricConverter\obj\Debug\04MetricConverter.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\04MetricConverter\obj\Debug\04MetricConverter.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\04MetricConverter\obj\Debug\04MetricConverter.pdb

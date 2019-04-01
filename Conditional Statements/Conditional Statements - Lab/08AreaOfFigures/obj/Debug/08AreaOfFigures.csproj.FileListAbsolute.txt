@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\08AreaOfFigures\bin\Debug\08AreaOfFigures.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\08AreaOfFigures\bin\Debug\08AreaOfFigures.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\08AreaOfFigures\bin\Debug\08AreaOfFigures.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\08AreaOfFigures\obj\Debug\08AreaOfFigures.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\08AreaOfFigures\obj\Debug\08AreaOfFigures.pdb

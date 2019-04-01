@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\093EqualNumbers\bin\Debug\093EqualNumbers.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\093EqualNumbers\bin\Debug\093EqualNumbers.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\093EqualNumbers\bin\Debug\093EqualNumbers.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\093EqualNumbers\obj\Debug\093EqualNumbers.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\093EqualNumbers\obj\Debug\093EqualNumbers.pdb

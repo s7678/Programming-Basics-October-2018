@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\03GreaterNumber\bin\Debug\03GreaterNumber.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\03GreaterNumber\bin\Debug\03GreaterNumber.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\03GreaterNumber\bin\Debug\03GreaterNumber.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\03GreaterNumber\obj\Debug\03GreaterNumber.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\03GreaterNumber\obj\Debug\03GreaterNumber.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\03GreaterNumber\obj\Debug\03GreaterNumber.pdb

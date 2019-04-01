@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\02BonusScore\bin\Debug\02BonusScore.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\02BonusScore\bin\Debug\02BonusScore.exe
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\02BonusScore\bin\Debug\02BonusScore.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\02BonusScore\obj\Debug\02BonusScore.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\02BonusScore\obj\Debug\02BonusScore.exe
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\02BonusScore\obj\Debug\02BonusScore.pdb

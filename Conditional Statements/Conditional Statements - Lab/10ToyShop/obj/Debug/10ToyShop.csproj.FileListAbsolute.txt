@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\10ToyShop\bin\Debug\10ToyShop.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\10ToyShop\bin\Debug\10ToyShop.exe
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\10ToyShop\bin\Debug\10ToyShop.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\10ToyShop\obj\Debug\10ToyShop.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\10ToyShop\obj\Debug\10ToyShop.exe
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\10ToyShop\obj\Debug\10ToyShop.pdb

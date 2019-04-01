@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\07EqualWords\bin\Debug\07EqualWords.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\07EqualWords\bin\Debug\07EqualWords.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\07EqualWords\bin\Debug\07EqualWords.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\07EqualWords\obj\Debug\07EqualWords.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\07EqualWords\obj\Debug\07EqualWords.pdb

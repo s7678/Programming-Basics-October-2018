@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\09WorldSwimmingRecord\bin\Debug\09WorldSwimmingRecord.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\09WorldSwimmingRecord\bin\Debug\09WorldSwimmingRecord.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\09WorldSwimmingRecord\bin\Debug\09WorldSwimmingRecord.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\09WorldSwimmingRecord\obj\Debug\09WorldSwimmingRecord.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\09WorldSwimmingRecord\obj\Debug\09WorldSwimmingRecord.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\09WorldSwimmingRecord\obj\Debug\09WorldSwimmingRecord.pdb

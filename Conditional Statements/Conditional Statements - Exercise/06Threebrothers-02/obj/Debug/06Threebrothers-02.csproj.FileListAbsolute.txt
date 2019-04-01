@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\06Threebrothers-02\bin\Debug\06Threebrothers-02.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\06Threebrothers-02\bin\Debug\06Threebrothers-02.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\06Threebrothers-02\bin\Debug\06Threebrothers-02.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\06Threebrothers-02\obj\Debug\06Threebrothers-02.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\06Threebrothers-02\obj\Debug\06Threebrothers-02.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\06Threebrothers-02\obj\Debug\06Threebrothers-02.pdb

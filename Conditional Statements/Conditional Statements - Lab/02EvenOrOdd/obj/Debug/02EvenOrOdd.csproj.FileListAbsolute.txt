@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\02EvenOrOdd\bin\Debug\02EvenOrOdd.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\02EvenOrOdd\bin\Debug\02EvenOrOdd.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\02EvenOrOdd\bin\Debug\02EvenOrOdd.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\02EvenOrOdd\obj\Debug\02EvenOrOdd.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\02EvenOrOdd\obj\Debug\02EvenOrOdd.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\02EvenOrOdd\obj\Debug\02EvenOrOdd.pdb

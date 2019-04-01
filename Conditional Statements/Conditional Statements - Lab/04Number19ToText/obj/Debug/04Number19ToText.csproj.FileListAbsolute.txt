@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\04Number19ToText\bin\Debug\04Number19ToText.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\04Number19ToText\bin\Debug\04Number19ToText.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\04Number19ToText\bin\Debug\04Number19ToText.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\04Number19ToText\obj\Debug\04Number19ToText.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\04Number19ToText\obj\Debug\04Number19ToText.pdb

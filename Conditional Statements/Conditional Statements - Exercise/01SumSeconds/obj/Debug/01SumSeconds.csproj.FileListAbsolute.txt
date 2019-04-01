@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\01SumSeconds\bin\Debug\01SumSeconds.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\01SumSeconds\bin\Debug\01SumSeconds.exe
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\01SumSeconds\bin\Debug\01SumSeconds.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\01SumSeconds\obj\Debug\01SumSeconds.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\01SumSeconds\obj\Debug\01SumSeconds.exe
+c:\users\user pc\documents\visual studio 2017\Projects\20102018\01SumSeconds\obj\Debug\01SumSeconds.pdb

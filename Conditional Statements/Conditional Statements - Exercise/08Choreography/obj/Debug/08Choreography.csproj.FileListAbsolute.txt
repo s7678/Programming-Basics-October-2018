@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\08Choreography\bin\Debug\08Choreography.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\08Choreography\bin\Debug\08Choreography.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\08Choreography\bin\Debug\08Choreography.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\08Choreography\obj\Debug\08Choreography.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\08Choreography\obj\Debug\08Choreography.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\08Choreography\obj\Debug\08Choreography.pdb

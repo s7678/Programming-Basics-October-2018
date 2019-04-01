@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\05Time15Minutes\bin\Debug\05Time15Minutes.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\05Time15Minutes\bin\Debug\05Time15Minutes.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\05Time15Minutes\bin\Debug\05Time15Minutes.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\05Time15Minutes\obj\Debug\05Time15Minutes.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\05Time15Minutes\obj\Debug\05Time15Minutes.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\05Time15Minutes\obj\Debug\05Time15Minutes.pdb

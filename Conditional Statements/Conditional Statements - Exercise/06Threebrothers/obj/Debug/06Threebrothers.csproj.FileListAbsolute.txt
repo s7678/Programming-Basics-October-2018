@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\06Threebrothers\bin\Debug\06Threebrothers.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\06Threebrothers\bin\Debug\06Threebrothers.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\06Threebrothers\bin\Debug\06Threebrothers.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\06Threebrothers\obj\Debug\06Threebrothers.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\06Threebrothers\obj\Debug\06Threebrothers.pdb

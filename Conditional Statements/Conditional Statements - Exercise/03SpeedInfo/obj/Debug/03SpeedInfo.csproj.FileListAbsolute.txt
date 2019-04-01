@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\03SpeedInfo\bin\Debug\03SpeedInfo.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\03SpeedInfo\bin\Debug\03SpeedInfo.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\03SpeedInfo\bin\Debug\03SpeedInfo.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\03SpeedInfo\obj\Debug\03SpeedInfo.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\20102018\03SpeedInfo\obj\Debug\03SpeedInfo.pdb
