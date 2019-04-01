@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\05Combination\bin\Debug\05Combination.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\05Combination\bin\Debug\05Combination.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\05Combination\bin\Debug\05Combination.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\05Combination\obj\Debug\05Combination.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\05Combination\obj\Debug\05Combination.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\05Combination\obj\Debug\05Combination.pdb

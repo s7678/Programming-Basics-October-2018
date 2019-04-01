@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\MagicNumbers\bin\Debug\MagicNumbers.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\MagicNumbers\bin\Debug\MagicNumbers.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\MagicNumbers\bin\Debug\MagicNumbers.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\MagicNumbers\obj\Debug\MagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\MagicNumbers\obj\Debug\MagicNumbers.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\MagicNumbers\obj\Debug\MagicNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\07NameWars\bin\Debug\07NameWars.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\07NameWars\bin\Debug\07NameWars.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\07NameWars\bin\Debug\07NameWars.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\07NameWars\obj\Debug\07NameWars.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\07NameWars\obj\Debug\07NameWars.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\07NameWars\obj\Debug\07NameWars.pdb

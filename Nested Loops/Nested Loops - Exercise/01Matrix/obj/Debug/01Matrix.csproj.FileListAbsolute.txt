@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\01Matrix\bin\Debug\01Matrix.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\01Matrix\bin\Debug\01Matrix.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\01Matrix\bin\Debug\01Matrix.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\01Matrix\obj\Debug\01Matrix.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\01Matrix\obj\Debug\01Matrix.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\01Matrix\obj\Debug\01Matrix.pdb

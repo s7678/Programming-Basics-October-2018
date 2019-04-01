@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\02NumberPyramid\bin\Debug\02NumberPyramid.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\02NumberPyramid\bin\Debug\02NumberPyramid.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\02NumberPyramid\bin\Debug\02NumberPyramid.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\02NumberPyramid\obj\Debug\02NumberPyramid.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\02NumberPyramid\obj\Debug\02NumberPyramid.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\02NumberPyramid\obj\Debug\02NumberPyramid.pdb

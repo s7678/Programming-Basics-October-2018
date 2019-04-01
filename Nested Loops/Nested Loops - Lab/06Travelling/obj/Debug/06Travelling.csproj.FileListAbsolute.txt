@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\06Travelling\bin\Debug\06Travelling.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\06Travelling\bin\Debug\06Travelling.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\06Travelling\bin\Debug\06Travelling.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\06Travelling\obj\Debug\06Travelling.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\06Travelling\obj\Debug\06Travelling.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\06Travelling\obj\Debug\06Travelling.pdb

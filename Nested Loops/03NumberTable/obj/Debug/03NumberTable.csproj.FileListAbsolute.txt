@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\03NumberTable\bin\Debug\03NumberTable.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\03NumberTable\bin\Debug\03NumberTable.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\03NumberTable\bin\Debug\03NumberTable.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\03NumberTable\obj\Debug\03NumberTable.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\03NumberTable\obj\Debug\03NumberTable.pdb

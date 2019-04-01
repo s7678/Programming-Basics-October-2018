@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\04Building01\bin\Debug\04Building01.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\04Building01\bin\Debug\04Building01.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\04Building01\bin\Debug\04Building01.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\04Building01\obj\Debug\04Building01.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\04Building01\obj\Debug\04Building01.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\17112018\04Building01\obj\Debug\04Building01.pdb

@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\17112018\01Numbers N11\bin\Debug\01Numbers N11.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\17112018\01Numbers N11\bin\Debug\01Numbers N11.exe
+c:\users\user pc\documents\visual studio 2017\Projects\17112018\01Numbers N11\bin\Debug\01Numbers N11.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\17112018\01Numbers N11\obj\Debug\01Numbers N11.exe
+c:\users\user pc\documents\visual studio 2017\Projects\17112018\01Numbers N11\obj\Debug\01Numbers N11.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\17112018\01Numbers N11\obj\Debug\01Numbers N11.csprojResolveAssemblyReference.cache
