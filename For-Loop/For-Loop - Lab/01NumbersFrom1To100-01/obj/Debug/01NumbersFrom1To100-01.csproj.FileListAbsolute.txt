@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersFrom1To100-01\bin\Debug\01NumbersFrom1To100-01.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersFrom1To100-01\bin\Debug\01NumbersFrom1To100-01.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersFrom1To100-01\bin\Debug\01NumbersFrom1To100-01.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersFrom1To100-01\obj\Debug\01NumbersFrom1To100-01.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersFrom1To100-01\obj\Debug\01NumbersFrom1To100-01.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersFrom1To100-01\obj\Debug\01NumbersFrom1To100-01.pdb

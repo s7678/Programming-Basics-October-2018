@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\02LatinLetters\bin\Debug\02LatinLetters.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\02LatinLetters\bin\Debug\02LatinLetters.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\02LatinLetters\bin\Debug\02LatinLetters.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\02LatinLetters\obj\Debug\02LatinLetters.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\02LatinLetters\obj\Debug\02LatinLetters.pdb

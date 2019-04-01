@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersEndingIn7\bin\Debug\01NumbersEndingIn7.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersEndingIn7\bin\Debug\01NumbersEndingIn7.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersEndingIn7\bin\Debug\01NumbersEndingIn7.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersEndingIn7\obj\Debug\01NumbersEndingIn7.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersEndingIn7\obj\Debug\01NumbersEndingIn7.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\01NumbersEndingIn7\obj\Debug\01NumbersEndingIn7.pdb

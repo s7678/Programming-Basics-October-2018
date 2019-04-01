@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\03OddEvenPosition\bin\Debug\03OddEvenPosition.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\03OddEvenPosition\bin\Debug\03OddEvenPosition.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\03OddEvenPosition\bin\Debug\03OddEvenPosition.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\03OddEvenPosition\obj\Debug\03OddEvenPosition.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\03OddEvenPosition\obj\Debug\03OddEvenPosition.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\03OddEvenPosition\obj\Debug\03OddEvenPosition.pdb

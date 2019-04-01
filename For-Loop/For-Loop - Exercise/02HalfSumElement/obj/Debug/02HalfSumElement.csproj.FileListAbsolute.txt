@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\02HalfSumElement\bin\Debug\02HalfSumElement.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\02HalfSumElement\bin\Debug\02HalfSumElement.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\02HalfSumElement\bin\Debug\02HalfSumElement.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\02HalfSumElement\obj\Debug\02HalfSumElement.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\02HalfSumElement\obj\Debug\02HalfSumElement.pdb

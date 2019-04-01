@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\09CleverLily\bin\Debug\09CleverLily.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\09CleverLily\bin\Debug\09CleverLily.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\09CleverLily\bin\Debug\09CleverLily.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\09CleverLily\obj\Debug\09CleverLily.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\09CleverLily\obj\Debug\09CleverLily.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\09CleverLily\obj\Debug\09CleverLily.pdb

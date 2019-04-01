@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\07Salary\bin\Debug\07Salary.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\07Salary\bin\Debug\07Salary.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\07Salary\bin\Debug\07Salary.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\07Salary\obj\Debug\07Salary.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\07Salary\obj\Debug\07Salary.pdb

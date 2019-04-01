@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\07OddEvenSum\bin\Debug\07OddEvenSum.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\07OddEvenSum\bin\Debug\07OddEvenSum.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\07OddEvenSum\bin\Debug\07OddEvenSum.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\07OddEvenSum\obj\Debug\07OddEvenSum.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\07OddEvenSum\obj\Debug\07OddEvenSum.pdb

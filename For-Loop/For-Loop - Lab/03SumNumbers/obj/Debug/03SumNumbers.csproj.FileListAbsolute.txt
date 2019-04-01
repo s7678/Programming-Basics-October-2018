@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\03SumNumbers\bin\Debug\03SumNumbers.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\03SumNumbers\bin\Debug\03SumNumbers.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\03SumNumbers\bin\Debug\03SumNumbers.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\03SumNumbers\obj\Debug\03SumNumbers.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\03SumNumbers\obj\Debug\03SumNumbers.pdb

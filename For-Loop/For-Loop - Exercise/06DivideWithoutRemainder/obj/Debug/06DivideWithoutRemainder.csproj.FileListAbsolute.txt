@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\06DivideWithoutRemainder\bin\Debug\06DivideWithoutRemainder.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\06DivideWithoutRemainder\bin\Debug\06DivideWithoutRemainder.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\06DivideWithoutRemainder\bin\Debug\06DivideWithoutRemainder.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\06DivideWithoutRemainder\obj\Debug\06DivideWithoutRemainder.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\06DivideWithoutRemainder\obj\Debug\06DivideWithoutRemainder.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\06DivideWithoutRemainder\obj\Debug\06DivideWithoutRemainder.pdb

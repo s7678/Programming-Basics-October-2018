@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\04EqualPairs\bin\Debug\04EqualPairs.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\04EqualPairs\bin\Debug\04EqualPairs.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\04EqualPairs\bin\Debug\04EqualPairs.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\04EqualPairs\obj\Debug\04EqualPairs.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\04EqualPairs\obj\Debug\04EqualPairs.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\10112018\04EqualPairs\obj\Debug\04EqualPairs.pdb
