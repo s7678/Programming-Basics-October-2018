@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\05NewHouse\bin\Debug\05NewHouse.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\05NewHouse\bin\Debug\05NewHouse.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\05NewHouse\bin\Debug\05NewHouse.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\05NewHouse\obj\Debug\05NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\05NewHouse\obj\Debug\05NewHouse.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\05NewHouse\obj\Debug\05NewHouse.pdb

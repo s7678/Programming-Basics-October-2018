@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\10HotelRoom\bin\Debug\10HotelRoom.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\10HotelRoom\bin\Debug\10HotelRoom.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\10HotelRoom\bin\Debug\10HotelRoom.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\10HotelRoom\obj\Debug\10HotelRoom.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\10HotelRoom\obj\Debug\10HotelRoom.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\10HotelRoom\obj\Debug\10HotelRoom.pdb

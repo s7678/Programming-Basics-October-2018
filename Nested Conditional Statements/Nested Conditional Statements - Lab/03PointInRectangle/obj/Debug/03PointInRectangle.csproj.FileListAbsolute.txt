@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\03PointInRectangle\bin\Debug\03PointInRectangle.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\03PointInRectangle\bin\Debug\03PointInRectangle.exe
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\03PointInRectangle\bin\Debug\03PointInRectangle.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\03PointInRectangle\obj\Debug\03PointInRectangle.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\03PointInRectangle\obj\Debug\03PointInRectangle.exe
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\03PointInRectangle\obj\Debug\03PointInRectangle.pdb

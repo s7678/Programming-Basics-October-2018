@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\03Volleyball\bin\Debug\03Volleyball.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\03Volleyball\bin\Debug\03Volleyball.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\03Volleyball\bin\Debug\03Volleyball.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\03Volleyball\obj\Debug\03Volleyball.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\03Volleyball\obj\Debug\03Volleyball.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\03Volleyball\obj\Debug\03Volleyball.pdb

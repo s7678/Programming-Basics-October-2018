@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\09OperationsBetweenNumbers\obj\Debug\09OperationsBetweenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\09OperationsBetweenNumbers\bin\Debug\09OperationsBetweenNumbers.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\09OperationsBetweenNumbers\bin\Debug\09OperationsBetweenNumbers.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\09OperationsBetweenNumbers\bin\Debug\09OperationsBetweenNumbers.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\09OperationsBetweenNumbers\obj\Debug\09OperationsBetweenNumbers.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\09OperationsBetweenNumbers\obj\Debug\09OperationsBetweenNumbers.pdb

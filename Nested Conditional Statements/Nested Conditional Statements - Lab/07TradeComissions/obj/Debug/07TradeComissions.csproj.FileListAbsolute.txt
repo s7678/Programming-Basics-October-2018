@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\07TradeComissions\bin\Debug\07TradeComissions.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\07TradeComissions\bin\Debug\07TradeComissions.exe
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\07TradeComissions\bin\Debug\07TradeComissions.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\07TradeComissions\obj\Debug\07TradeComissions.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\07TradeComissions\obj\Debug\07TradeComissions.exe
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\07TradeComissions\obj\Debug\07TradeComissions.pdb

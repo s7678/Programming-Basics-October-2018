@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\04SummerOutfit\bin\Debug\04SummerOutfit.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\04SummerOutfit\bin\Debug\04SummerOutfit.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\04SummerOutfit\bin\Debug\04SummerOutfit.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\04SummerOutfit\obj\Debug\04SummerOutfit.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\04SummerOutfit\obj\Debug\04SummerOutfit.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\04SummerOutfit\obj\Debug\04SummerOutfit.csprojResolveAssemblyReference.cache

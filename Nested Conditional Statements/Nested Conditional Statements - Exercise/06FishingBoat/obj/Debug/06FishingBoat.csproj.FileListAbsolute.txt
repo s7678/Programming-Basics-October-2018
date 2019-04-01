@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\06FishingBoat\bin\Debug\06FishingBoat.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\06FishingBoat\bin\Debug\06FishingBoat.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\06FishingBoat\bin\Debug\06FishingBoat.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\06FishingBoat\obj\Debug\06FishingBoat.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\06FishingBoat\obj\Debug\06FishingBoat.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\27102018\06FishingBoat\obj\Debug\06FishingBoat.pdb

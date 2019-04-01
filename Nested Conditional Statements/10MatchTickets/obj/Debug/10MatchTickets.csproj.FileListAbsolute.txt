@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\10MatchTickets\bin\Debug\10MatchTickets.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\10MatchTickets\bin\Debug\10MatchTickets.exe
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\10MatchTickets\bin\Debug\10MatchTickets.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\10MatchTickets\obj\Debug\10MatchTickets.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\10MatchTickets\obj\Debug\10MatchTickets.exe
+c:\users\user pc\documents\visual studio 2017\Projects\27102018\10MatchTickets\obj\Debug\10MatchTickets.pdb
