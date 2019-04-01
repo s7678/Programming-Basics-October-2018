@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\03Graduationpt2\bin\Debug\03Graduationpt2.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\03Graduationpt2\bin\Debug\03Graduationpt2.exe
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\03Graduationpt2\bin\Debug\03Graduationpt2.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\03Graduationpt2\obj\Debug\03Graduationpt2.exe
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\03Graduationpt2\obj\Debug\03Graduationpt2.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\03Graduationpt2\obj\Debug\03Graduationpt2.csprojResolveAssemblyReference.cache

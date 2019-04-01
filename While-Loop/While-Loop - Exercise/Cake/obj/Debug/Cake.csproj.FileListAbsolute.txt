@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\Cake\bin\Debug\Cake.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\Cake\bin\Debug\Cake.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\Cake\bin\Debug\Cake.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\Cake\obj\Debug\Cake.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\Cake\obj\Debug\Cake.pdb

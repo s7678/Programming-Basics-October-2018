@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\01Number in Range1100\bin\Debug\01Number in Range1100.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\01Number in Range1100\bin\Debug\01Number in Range1100.exe
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\01Number in Range1100\bin\Debug\01Number in Range1100.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\01Number in Range1100\obj\Debug\01Number in Range1100.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\01Number in Range1100\obj\Debug\01Number in Range1100.exe
+c:\users\user pc\documents\visual studio 2017\Projects\03112018\01Number in Range1100\obj\Debug\01Number in Range1100.pdb

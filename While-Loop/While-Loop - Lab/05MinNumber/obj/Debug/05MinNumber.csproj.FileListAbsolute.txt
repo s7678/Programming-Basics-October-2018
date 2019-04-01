@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\05MinNumber\bin\Debug\05MinNumber.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\05MinNumber\bin\Debug\05MinNumber.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\05MinNumber\bin\Debug\05MinNumber.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\05MinNumber\obj\Debug\05MinNumber.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\05MinNumber\obj\Debug\05MinNumber.pdb

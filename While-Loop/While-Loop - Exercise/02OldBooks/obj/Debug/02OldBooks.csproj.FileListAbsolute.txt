@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\02OldBooks\bin\Debug\02OldBooks.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\02OldBooks\bin\Debug\02OldBooks.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\02OldBooks\bin\Debug\02OldBooks.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\02OldBooks\obj\Debug\02OldBooks.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\02OldBooks\obj\Debug\02OldBooks.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\02OldBooks\obj\Debug\02OldBooks.pdb

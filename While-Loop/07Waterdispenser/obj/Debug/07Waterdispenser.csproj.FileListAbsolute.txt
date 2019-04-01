@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\07Waterdispenser\bin\Debug\07Waterdispenser.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\07Waterdispenser\bin\Debug\07Waterdispenser.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\07Waterdispenser\bin\Debug\07Waterdispenser.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\07Waterdispenser\obj\Debug\07Waterdispenser.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\07Waterdispenser\obj\Debug\07Waterdispenser.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\07Waterdispenser\obj\Debug\07Waterdispenser.pdb

@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\04MaxNumber\bin\Debug\04MaxNumber.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\04MaxNumber\bin\Debug\04MaxNumber.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\04MaxNumber\bin\Debug\04MaxNumber.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\04MaxNumber\obj\Debug\04MaxNumber.exe
+c:\users\user pc\documents\visual studio 2017\Projects\10112018\04MaxNumber\obj\Debug\04MaxNumber.pdb

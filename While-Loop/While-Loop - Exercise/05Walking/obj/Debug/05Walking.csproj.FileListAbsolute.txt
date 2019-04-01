@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\05Walking\bin\Debug\05Walking.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\05Walking\bin\Debug\05Walking.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\05Walking\bin\Debug\05Walking.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\05Walking\obj\Debug\05Walking.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\03112018\05Walking\obj\Debug\05Walking.pdb
