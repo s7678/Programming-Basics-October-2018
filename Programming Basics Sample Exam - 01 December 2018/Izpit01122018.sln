@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Trekkingequipment01", "01Trekkingequipment01\01Trekkingequipment01.csproj", "{ACB28698-A5BC-4AEC-949C-7D939ABA90F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02SchoolTrip", "02SchoolTrip\02SchoolTrip.csproj", "{4D3AB441-A53C-4F13-A86F-5346894F1206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03SkiTrip", "03SkiTrip\03SkiTrip.csproj", "{AB8D3A8F-E225-46B8-8F25-10DBA6EB03D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04PuppyCare", "04PuppyCare\04PuppyCare.csproj", "{EC6FBEBC-27DA-4DC4-BAAD-753D5ABE57C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ProjectPrize", "05ProjectPrize\05ProjectPrize.csproj", "{F9F013B5-AD20-48C1-BCD0-52701DA34113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06SafePasswordsGenerator", "06SafePasswordsGenerator\06SafePasswordsGenerator.csproj", "{D3728287-310D-48E2-8B74-495DC8C86044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB28698-A5BC-4AEC-949C-7D939ABA90F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB28698-A5BC-4AEC-949C-7D939ABA90F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB28698-A5BC-4AEC-949C-7D939ABA90F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB28698-A5BC-4AEC-949C-7D939ABA90F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3AB441-A53C-4F13-A86F-5346894F1206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3AB441-A53C-4F13-A86F-5346894F1206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3AB441-A53C-4F13-A86F-5346894F1206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3AB441-A53C-4F13-A86F-5346894F1206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8D3A8F-E225-46B8-8F25-10DBA6EB03D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8D3A8F-E225-46B8-8F25-10DBA6EB03D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8D3A8F-E225-46B8-8F25-10DBA6EB03D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8D3A8F-E225-46B8-8F25-10DBA6EB03D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6FBEBC-27DA-4DC4-BAAD-753D5ABE57C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6FBEBC-27DA-4DC4-BAAD-753D5ABE57C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6FBEBC-27DA-4DC4-BAAD-753D5ABE57C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6FBEBC-27DA-4DC4-BAAD-753D5ABE57C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F013B5-AD20-48C1-BCD0-52701DA34113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F013B5-AD20-48C1-BCD0-52701DA34113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F013B5-AD20-48C1-BCD0-52701DA34113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F013B5-AD20-48C1-BCD0-52701DA34113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3728287-310D-48E2-8B74-495DC8C86044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3728287-310D-48E2-8B74-495DC8C86044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3728287-310D-48E2-8B74-495DC8C86044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3728287-310D-48E2-8B74-495DC8C86044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

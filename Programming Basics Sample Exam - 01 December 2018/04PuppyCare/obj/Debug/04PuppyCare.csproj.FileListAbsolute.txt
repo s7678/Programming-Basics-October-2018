@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\04PuppyCare\bin\Debug\04PuppyCare.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\04PuppyCare\bin\Debug\04PuppyCare.exe
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\04PuppyCare\bin\Debug\04PuppyCare.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\04PuppyCare\obj\Debug\04PuppyCare.exe
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\04PuppyCare\obj\Debug\04PuppyCare.pdb

@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\03SkiTrip\bin\Debug\03SkiTrip.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\03SkiTrip\bin\Debug\03SkiTrip.exe
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\03SkiTrip\bin\Debug\03SkiTrip.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\03SkiTrip\obj\Debug\03SkiTrip.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\03SkiTrip\obj\Debug\03SkiTrip.exe
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\03SkiTrip\obj\Debug\03SkiTrip.pdb

@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\01Trekkingequipment01\bin\Debug\01Trekkingequipment01.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\01Trekkingequipment01\bin\Debug\01Trekkingequipment01.exe
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\01Trekkingequipment01\bin\Debug\01Trekkingequipment01.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\01Trekkingequipment01\obj\Debug\01Trekkingequipment01.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\01Trekkingequipment01\obj\Debug\01Trekkingequipment01.exe
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\01Trekkingequipment01\obj\Debug\01Trekkingequipment01.pdb

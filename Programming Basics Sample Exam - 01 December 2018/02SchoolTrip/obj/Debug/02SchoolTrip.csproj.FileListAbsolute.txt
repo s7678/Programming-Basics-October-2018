@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\02SchoolTrip\bin\Debug\02SchoolTrip.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\02SchoolTrip\bin\Debug\02SchoolTrip.exe
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\02SchoolTrip\bin\Debug\02SchoolTrip.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\02SchoolTrip\obj\Debug\02SchoolTrip.exe
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\02SchoolTrip\obj\Debug\02SchoolTrip.pdb

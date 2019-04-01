@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\05ProjectPrize\bin\Debug\05ProjectPrize.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\05ProjectPrize\bin\Debug\05ProjectPrize.exe
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\05ProjectPrize\bin\Debug\05ProjectPrize.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\05ProjectPrize\obj\Debug\05ProjectPrize.exe
+c:\users\user pc\documents\visual studio 2017\Projects\Izpit01122018\05ProjectPrize\obj\Debug\05ProjectPrize.pdb
