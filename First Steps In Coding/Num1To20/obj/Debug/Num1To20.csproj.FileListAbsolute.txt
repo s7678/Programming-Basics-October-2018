@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\06102018\Num1To20\bin\Debug\Num1To20.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\06102018\Num1To20\bin\Debug\Num1To20.exe
+c:\users\user pc\documents\visual studio 2017\Projects\06102018\Num1To20\bin\Debug\Num1To20.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\06102018\Num1To20\obj\Debug\Num1To20.exe
+c:\users\user pc\documents\visual studio 2017\Projects\06102018\Num1To20\obj\Debug\Num1To20.pdb

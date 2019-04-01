@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\04Tailoring Workshop-02\bin\Debug\04Tailoring Workshop-02.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\04Tailoring Workshop-02\bin\Debug\04Tailoring Workshop-02.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\04Tailoring Workshop-02\bin\Debug\04Tailoring Workshop-02.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\04Tailoring Workshop-02\obj\Debug\04Tailoring Workshop-02.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\04Tailoring Workshop-02\obj\Debug\04Tailoring Workshop-02.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\04Tailoring Workshop-02\obj\Debug\04Tailoring Workshop-02.pdb

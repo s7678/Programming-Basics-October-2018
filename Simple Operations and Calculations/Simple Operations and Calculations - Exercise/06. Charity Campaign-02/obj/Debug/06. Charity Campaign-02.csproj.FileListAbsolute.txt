@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\06. Charity Campaign-02\bin\Debug\_06.Charity_Campaign_02.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\06. Charity Campaign-02\bin\Debug\_06.Charity_Campaign_02.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\06. Charity Campaign-02\bin\Debug\_06.Charity_Campaign_02.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\06. Charity Campaign-02\obj\Debug\_06.Charity_Campaign_02.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\06. Charity Campaign-02\obj\Debug\_06.Charity_Campaign_02.pdb

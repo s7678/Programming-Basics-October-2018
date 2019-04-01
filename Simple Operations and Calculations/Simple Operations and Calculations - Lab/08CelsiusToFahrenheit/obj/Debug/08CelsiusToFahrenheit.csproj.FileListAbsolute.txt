@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\08CelsiusToFahrenheit\bin\Debug\08CelsiusToFahrenheit.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\08CelsiusToFahrenheit\bin\Debug\08CelsiusToFahrenheit.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\08CelsiusToFahrenheit\bin\Debug\08CelsiusToFahrenheit.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\08CelsiusToFahrenheit\obj\Debug\08CelsiusToFahrenheit.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\08CelsiusToFahrenheit\obj\Debug\08CelsiusToFahrenheit.pdb

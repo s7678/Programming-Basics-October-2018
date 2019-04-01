@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\02InchesToCentimeters\bin\Debug\02InchesToCentimeters.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\02InchesToCentimeters\bin\Debug\02InchesToCentimeters.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\02InchesToCentimeters\bin\Debug\02InchesToCentimeters.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\02InchesToCentimeters\obj\Debug\02InchesToCentimeters.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\02InchesToCentimeters\obj\Debug\02InchesToCentimeters.pdb

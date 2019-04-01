@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\01SquareArea\bin\Debug\01SquareArea.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\01SquareArea\bin\Debug\01SquareArea.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\01SquareArea\bin\Debug\01SquareArea.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\01SquareArea\obj\Debug\01SquareArea.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\01SquareArea\obj\Debug\01SquareArea.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\01SquareArea\obj\Debug\01SquareArea.pdb

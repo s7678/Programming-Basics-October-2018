@@ -1,0 +1,6 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\05. Dance Hall-02\bin\Debug\_05.Dance_Hall_02.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\05. Dance Hall-02\bin\Debug\_05.Dance_Hall_02.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\05. Dance Hall-02\bin\Debug\_05.Dance_Hall_02.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\05. Dance Hall-02\obj\Debug\05. Dance Hall-02.csprojResolveAssemblyReference.cache
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\05. Dance Hall-02\obj\Debug\_05.Dance_Hall_02.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\05. Dance Hall-02\obj\Debug\_05.Dance_Hall_02.pdb

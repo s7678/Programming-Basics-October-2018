@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\06CircleAreaAndPerimeter\bin\Debug\06CircleAreaAndPerimeter.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\06CircleAreaAndPerimeter\bin\Debug\06CircleAreaAndPerimeter.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\06CircleAreaAndPerimeter\bin\Debug\06CircleAreaAndPerimeter.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\06CircleAreaAndPerimeter\obj\Debug\06CircleAreaAndPerimeter.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\06CircleAreaAndPerimeter\obj\Debug\06CircleAreaAndPerimeter.pdb

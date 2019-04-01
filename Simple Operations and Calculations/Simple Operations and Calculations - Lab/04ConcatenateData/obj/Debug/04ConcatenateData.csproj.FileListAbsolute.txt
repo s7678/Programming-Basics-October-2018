@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\04ConcatenateData\bin\Debug\04ConcatenateData.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\04ConcatenateData\bin\Debug\04ConcatenateData.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\04ConcatenateData\bin\Debug\04ConcatenateData.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\04ConcatenateData\obj\Debug\04ConcatenateData.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\04ConcatenateData\obj\Debug\04ConcatenateData.pdb

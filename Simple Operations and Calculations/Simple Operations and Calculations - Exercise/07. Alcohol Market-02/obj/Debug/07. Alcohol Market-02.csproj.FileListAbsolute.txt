@@ -1,0 +1,5 @@
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\07. Alcohol Market-02\bin\Debug\_07.Alcohol_Market_02.exe.config
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\07. Alcohol Market-02\bin\Debug\_07.Alcohol_Market_02.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\07. Alcohol Market-02\bin\Debug\_07.Alcohol_Market_02.pdb
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\07. Alcohol Market-02\obj\Debug\_07.Alcohol_Market_02.exe
+C:\Users\user pc\documents\visual studio 2017\Projects\13102018\07. Alcohol Market-02\obj\Debug\_07.Alcohol_Market_02.pdb

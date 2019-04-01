@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\06CharityCampaign\bin\Debug\06CharityCampaign.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\06CharityCampaign\bin\Debug\06CharityCampaign.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\06CharityCampaign\bin\Debug\06CharityCampaign.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\06CharityCampaign\obj\Debug\06CharityCampaign.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\06CharityCampaign\obj\Debug\06CharityCampaign.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\06CharityCampaign\obj\Debug\06CharityCampaign.pdb

@@ -1,0 +1,6 @@
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\02USDToBGN\bin\Debug\02USDToBGN.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\02USDToBGN\bin\Debug\02USDToBGN.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\02USDToBGN\bin\Debug\02USDToBGN.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\02USDToBGN\obj\Debug\02USDToBGN.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\02USDToBGN\obj\Debug\02USDToBGN.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\02USDToBGN\obj\Debug\02USDToBGN.pdb

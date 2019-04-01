@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\09RadiansToDegrees\bin\Debug\09RadiansToDegrees.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\09RadiansToDegrees\bin\Debug\09RadiansToDegrees.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\09RadiansToDegrees\bin\Debug\09RadiansToDegrees.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\09RadiansToDegrees\obj\Debug\09RadiansToDegrees.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\09RadiansToDegrees\obj\Debug\09RadiansToDegrees.pdb

@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\05TrapeziodArea\bin\Debug\05TrapeziodArea.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\05TrapeziodArea\bin\Debug\05TrapeziodArea.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\05TrapeziodArea\bin\Debug\05TrapeziodArea.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\05TrapeziodArea\obj\Debug\05TrapeziodArea.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\05TrapeziodArea\obj\Debug\05TrapeziodArea.pdb

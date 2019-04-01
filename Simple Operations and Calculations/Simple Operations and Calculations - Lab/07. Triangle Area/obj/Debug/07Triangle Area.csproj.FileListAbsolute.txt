@@ -1,0 +1,5 @@
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\07. Triangle Area\bin\Debug\_07.Triangle_Area.exe.config
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\07. Triangle Area\bin\Debug\_07.Triangle_Area.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\07. Triangle Area\bin\Debug\_07.Triangle_Area.pdb
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\07. Triangle Area\obj\Debug\_07.Triangle_Area.exe
+c:\users\user pc\documents\visual studio 2017\Projects\13102018\07. Triangle Area\obj\Debug\_07.Triangle_Area.pdb
